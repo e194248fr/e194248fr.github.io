@@ -1,6 +1,6 @@
 h1{
    color: deeppink;
-    font-family: "cursive";
+    font-family: inherit;
     text-align: center;
     background-color:yellow
     
@@ -18,7 +18,7 @@ h3{
     
 }
 body{
-    background-image: url("../p_da0761_xl_da07612.jpg");
+    background-image: url("p_da0761_xl_da07612.jpg");
     
 }
 p{
