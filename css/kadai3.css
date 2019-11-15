@@ -1,0 +1,27 @@
+h1{
+   color: deeppink;
+    font-family: inherit;
+    text-align: center;
+    background-color:yellow
+    
+}
+h2{
+    color: aqua;
+    font-family: "cursive";
+    background-color: blueviolet
+    ;text-align: center
+}
+h3{
+    font-family: "fantasy";
+    color: yellow;
+    background-color: black;
+    
+}
+body{
+    background-image: url("p_da0761_xl_da07612.jpg");
+    
+}
+p{
+
+    
+}
