@@ -18,7 +18,9 @@ tbody{
     background-color: deepskyblue;
     color: yellow
 }
-br{background-image: url(../images/banback.jpg);
-        
-        
+ol{background-image: url(../images/banback.jpg);
     }
+li{ color: yellow; 
+}
+a{ color: orange;  
+}
