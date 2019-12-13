@@ -1,0 +1,85 @@
+div.title{
+    width: 1000px;
+    height: 100px;
+    background-color: aqua;
+    font-family: "Comic Sans MS";
+    font-size: 70px;
+    margin-bottom: 20px;
+   
+    
+}
+div.main{
+    width: 1000px;
+    height: 320px;
+    background-color:cornflowerblue;
+    font-size: 0px;
+}
+div.menu{
+    display: inline-block;
+    vertical-align: top;
+    width: 250px;
+    height: 320px;
+    background-color: aquamarine;
+    font-size: 0px;
+    margin-right: 50px;
+     font-family: "Comic Sans MS";
+    
+}
+div.menu1{
+    width: 250px;
+    height: 100px;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align:center;
+}
+div.menu2{
+    width: 250px;
+    height: 100px;
+    background-color: blueviolet;
+    margin-bottom: 10px;
+    font-size: 40px;
+    text-align:center;
+}
+div.menu3{
+    width: 250px;
+    height: 100px;
+    background-color: blueviolet;
+    font-size: 40px;text-align:center;
+}
+div.imagi1-1{
+    display: inline-block;
+    width: 700px;
+    height: 320px;
+    background-color: blue;
+    font-size: 0px;
+    font-family: "Comic Sans MS";
+    
+    }
+div.imagi1{
+    width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    font-size: 40px;
+text-align: center;
+    
+    
+}
+div.bun{
+    width: 700px;
+    height: 20px;
+    background-color: coral;
+    font-size: 15px;
+    text-align: center;
+}
+
+
+div.fu{
+    width: 1000px;
+    height: 40px;
+    background-color: black;
+    color: white;
+    text-align:center;
+    margin-top: 20px;
+    
+}
