@@ -1,0 +1,257 @@
+header {
+	position: relative;
+	height: 50vh;
+}
+header {width:1890px;
+	background: url(../images/BOWhead.jpg) center / cover;
+}
+body{
+    background-attachment: fixed;
+background-image: url(../images/background.jpg);
+}
+h1.title{
+    text-shadow:6px 5px 0px #f51818;
+    font-family: Georgia;
+    font-weight: bold;
+    line-height: 500px;
+    text-align: center;
+    font-size: 70px;
+    -webkit-text-stroke: 2px white;
+    
+}
+div.setume{
+   font-family:Yu Mincho;
+    color: white;
+}
+div.menu{
+    background: white;
+    
+}
+div.main{
+    width:1890px;
+    height: 1896px;
+    font-size: 0px;
+}
+div.menu{
+    margin:10px;
+    color:#cb9100; 
+    display: inline-block;
+    vertical-align: top;
+    width: 254px;
+    height: 290px;
+    background-color: #f1c344;
+    font-size: 0px;
+    font-family: "Yu Mincho";
+    position: -webkit-sticky;
+  position: sticky;
+  top: 10px;
+}
+button.menu1{
+       font-weight: bold;
+    line-height: 70px;
+    text-align: center;
+    margin: 2px;
+    width: 250px;
+    height: 70px;
+    background-color: #00181c;
+    font-size: 30px;
+    text-align:center;
+    color:#cb9100;
+}
+button.menu2{
+       font-weight: bold;
+    line-height: 70px;
+    text-align: center;
+    margin: 2px;
+    width: 250px;
+    height: 70px;
+    background-color: #00181c;
+    font-size: 30px;
+    text-align:center;
+    color:#cb9100;
+}
+button.menu3{    
+    font-weight: bold;
+    line-height: 70px;
+    text-align: center;
+    margin: 2px;
+    width: 250px;
+    height: 70px;
+    background-color: #494e4c;
+    font-size: 30px;
+    text-align:center;
+    color:#cb9100;}
+button.menu4{
+       font-weight: bold;line-height: 70px;
+    text-align: center;
+    margin: 2px;
+    width: 250px;
+    height: 70px;
+    background-color: #00181c;
+    font-size: 30px;
+    text-align:center;
+    color:#cb9100;
+}
+div.sky{
+    font-size: 0px;
+    width:width: 1616px;
+}
+div.body1{
+    display: inline-block;
+    width: 1616px;
+    height: 1000px;
+    font-size: 0px;
+    font-family: "Yu Mincho";
+    
+    }
+span.bun{
+    vertical-align: top;
+      display: inline-block;
+    width: 916px;
+   height: 474px;
+    font-size: 0px;
+text-align: center;    
+    
+}
+span.imagi{
+    display: inline-block;
+    width: 700px;
+    height: 474px;
+    background-color: aquamarine;
+    font-size: 0px;
+text-align: center;  
+}
+span.bun2{
+      display: inline-block;
+    width: 916px;
+    height: 474px;
+    font-size: 40px;
+text-align: center;  
+    vertical-align: top;
+}
+span.imagi2{
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    font-size: 40px;
+text-align: center;  
+
+    
+}
+span.bun3{
+      display: inline-block;
+    width: 916px;
+    height: 474px;
+    font-size: 40px;
+text-align: center;  
+    vertical-align: top;
+}
+span.imagi3{
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    font-size: 40px;
+text-align: center;  
+}
+span.bun4{
+      display: inline-block;
+    width: 916px;
+    height: 474px;
+    font-size: 40px;
+text-align: center;  
+    vertical-align: top;
+}
+span.imagi4{
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    font-size: 40px;
+text-align: center;  
+}
+span.bun5{
+      display: inline-block;
+    width: 916px;
+    height: 474px;
+    font-size: 40px;
+text-align: center;  
+    vertical-align: top;
+}
+span.imagi5{
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    font-size: 40px;
+text-align: center;  
+}
+span.bun6{
+      display: inline-block;
+    width: 916px;
+    height: 474px;
+    font-size: 40px;
+text-align: center;  
+    vertical-align: top;
+}
+span.imagi6{
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    font-size: 40px;
+text-align: center;  
+}
+span.bun7{
+      display: inline-block;
+    width: 916px;
+    height: 474px;
+    font-size: 40px;
+text-align: center;  
+    vertical-align: top;
+}
+span.imagi7{
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    font-size: 40px;
+text-align: center;  
+}
+span.bun8{
+      display: inline-block;
+    width: 916px;
+    height: 474px;
+    font-size: 40px;
+text-align: center;  
+    vertical-align: top;
+}
+span.imagi8{
+    display: inline-block;
+    width: 700px;
+    height: 300px;
+    background-color: aquamarine;
+    font-size: 40px;
+text-align: center;  
+}
+p.bunnaka{
+    font-family: "Yu Mincho";
+    color: white;
+    font-size: 19px;
+    line-height:30px;
+}
+p.bunTitle{
+    color: white;font-size: 40px;font-family: "Yu Mincho";
+    text-align: left;
+    line-height: 10px;
+}
+div.fu{
+    width: 100%;
+    height: 100px;
+}
+p.fut{
+    font-size: 20px;
+    color: white;
+    
+}
